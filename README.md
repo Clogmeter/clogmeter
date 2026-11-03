@@ -33,6 +33,14 @@ See [pricing](https://clogmeter.vercel.app/pricing) for details.
 
 Short guides on keeping agent instruction files lean are at [clogmeter.vercel.app/guides](https://clogmeter.vercel.app/guides/).
 
+## VS Code / Cursor extension
+
+Free extension that shows the token weight of `AGENTS.md`, `CLAUDE.md` and Cursor rules in your status bar, with a local inspect panel for heavy sections, duplicates and conflicts.
+
+- Source: [github.com/clogmeter/clogmeter-vscode](https://github.com/clogmeter/clogmeter-vscode)
+- VS Code Marketplace: [clogmeter.clogmeter](https://marketplace.visualstudio.com/items?itemName=clogmeter.clogmeter)
+- Open VSX: [clogmeter/clogmeter](https://open-vsx.org/extension/clogmeter/clogmeter)
+
 ## Feedback
 
 Open an issue in this repo with bugs, ideas or files that scan oddly.
